@@ -182,9 +182,10 @@ text-align:justify;
 
 .a-slog {
 	font-size:0.93em;
-	max-width: 450px;
+	max-width: 650px;
 	margin:0 auto;
-        padding-top:10px;
+    padding-top:10px;
+    padding-bottom:20px;
 }
 
 .gap
@@ -197,7 +198,7 @@ text-align:justify;
 	letter-spacing: 0.02em;
 	text-transform: uppercase;
 	font-family: 'Roboto Slab', serif;
-	margin-bottom: 20px;
+	margin-bottom: 5px;
 }
 .scroll-block {
   height: 100%;
@@ -495,7 +496,7 @@ p.lead
 -------------------------------------------------------*/
 .aboutus>.container
 {
-    padding:60px 0px;
+    padding: 60px 0px;
   
 }
 
