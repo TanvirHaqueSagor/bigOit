@@ -125,7 +125,9 @@ ul
 {
     text-transform: uppercase;
 }
-
+.display-none{
+    display: none;
+}
 p.intro{
 	font-size:0.9em;
 	margin: 14px 0;
